@@ -9,20 +9,24 @@
 - Spring Setting(Maven, tomcat, mysql)
 - git 생성 주소
     - https://github.com/biblioteca-ver1
+    - devBranch : dev
     - MainBranch : master
-    - suyounBranch : youn
-    - qsunBranch : qsun
+
+- Branch 순서
+    - 개발(dev) -> 통합(master)
 
 
 
 #### Qsun
 
+- git project > local 생성(branch 순서 참고)
 - CRUD Test
-- 환경설정 Setting Git에 올리기
+
 
 ---
 
 #### Youn
 
-- 화면설계
-- 
+- maven-project 생성 
+- git 연동 및 branch 생성
+- 화면구상(libro)
