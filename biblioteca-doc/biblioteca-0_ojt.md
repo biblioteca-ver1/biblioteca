@@ -6,10 +6,10 @@
 
 #### Qsun
 
--	miembro 화면설계 (tool:Balsamiq Mockups)
+- miembro 화면설계 (tool:Balsamiq Mockups)
 
 ---
 
 #### Youn
 
--	libro 화면구성
+- libro 화면구성

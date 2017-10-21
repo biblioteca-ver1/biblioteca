@@ -9,10 +9,10 @@
 
 ### 개발환경
 
--	언어 : Java8, JavaScript, Html5, Css3
--	DBMS : Mysql
--	기타 : Spring4, Git, Mybatis, Tomcat, Balsamiq Mockups
--	IDE : Intellij, Webstorm
+- 언어 : Java8, JavaScript, Html5, Css3
+- DBMS : Mysql
+- 기타 : Spring4, Git, Mybatis, Tomcat, Balsamiq Mockups
+- IDE : Intellij, Webstorm
 
 ---
 
